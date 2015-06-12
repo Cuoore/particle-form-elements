@@ -1,0 +1,24 @@
+/**************************/
+/*                        */
+/*     dependencies       */
+/*                        */
+/**************************/
+
+// theme
+@import "../../../bower_components/particle-theme/src/styles/code/colors.scss";
+@import "../../../bower_components/particle-theme/src/styles/code/sizes.scss";
+
+// particles
+@import "../../../bower_components/particle-texts/src/styles/entryPoints/texts.scss";
+
+/**************************/
+/*                        */
+/*     this particle      */
+/*                        */
+/**************************/
+
+// buttons
+@import "../code/variables";
+@import "../code/mixins";
+@import "../code/placeholders";
+@import "../code/rules";

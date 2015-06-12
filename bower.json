@@ -1,0 +1,20 @@
+{
+  "name": "particle-radio-buttons",
+  "version": "0.0.1-0",
+  "authors": [
+    "Javier Lopez de Ancos <@javierland>"
+  ],
+  "description": "A radio-buttons collections",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "particle-texts":"git@github.com:Cuoore/particle-texts.git#master"
+  },
+  "devDependencies":{
+    "particle-higgsboson":"git@github.com:Cuoore/higgsboson.git#master"
+  } 
+}

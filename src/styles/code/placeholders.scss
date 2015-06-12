@@ -1,0 +1,39 @@
+/*%button-theming-border {
+  border-radius: $button---border-radius;
+  border-style: solid;
+  border-width: 1px;
+}
+
+%buttons {
+  font-family: $button---font-family;
+  font-size: $button---font-size;
+  margin: $button---margin;
+  padding: $button---padding;
+  letter-spacing: .02rem;
+  cursor: pointer;
+}
+
+%buttons--primary-color {
+  @extend %buttons;
+  @extend %button-theming-border;
+  @include button-theming($button---map--primary-color);
+}
+
+%buttons--tertiary-color {
+  @extend %buttons;
+  @extend %button-theming-border;
+  @include button-theming($button---map--tertiary-color);
+}
+
+%buttons--primary-color--outline {
+  @extend %buttons;
+  @extend %button-theming-border;
+  @include button-theming-outline($button---map--primary-color);
+}
+
+%buttons--tertiary-color--outline {
+  @extend %buttons;
+  @extend %button-theming-border;
+  @include button-theming-outline($button---map--tertiary-color);
+}
+*/
